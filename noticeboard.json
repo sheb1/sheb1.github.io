@@ -1,5 +1,6 @@
 [
     {
-        "Notice": "New Update Available ",
-        "Notification": "Notification"
-    }]
+        "notice": "New Update Available ",
+        "notification": "Notification"
+    }
+    ]
