@@ -1,16 +1,10 @@
-[{
-		"id": "MBA",
-		"name": "https://drive.google.com/file/d/0B_Ljs8K7QCtCb2JqVDRZejk5akE/view?usp=sharing"
-
-	},
-	{
-		"id": "btech",
-		"name": "https://drive.google.com/open?id=0B_Ljs8K7QCtCZWVVVE5GcEo5VXc"
-
-	},
-	{
-		"id": "MCA",
-		"name": "https://drive.google.com/open?id=0B_Ljs8K7QCtCZWVVVE5GcEo5VXc"
-
-	}
+[
+  {
+    "id": "MBA",
+    "name": "https://drive.google.com/file/d/0B_Ljs8K7QCtCb2JqVDRZejk5akE/view?usp=sharing"
+  },
+  {
+    "id": "btech",
+    "name": "https://drive.google.com/open?id=0B_Ljs8K7QCtCZWVVVE5GcEo5VXc"
+  }
 ]
