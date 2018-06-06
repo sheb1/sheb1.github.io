@@ -1,14 +1,102 @@
-[
-  {
-    "id": "MBA",
-    "name": "https://drive.google.com/file/d/0B_Ljs8K7QCtCb2JqVDRZejk5akE/view?usp=sharing"
-  },
-  {
-    "id": "btech",
-    "name": "https://drive.google.com/open?id=0B_Ljs8K7QCtCZWVVVE5GcEo5VXc"
-  },
-  {
-    "id": "P.Hd",
-    "name": "http://www.thealigarian.com/wp-content/uploads/2018/03/PhD-fine-arts-AMU.pdf"
-  }
+[{
+		"id": "MBA",
+		"name": "https://drive.google.com/file/d/0B_Ljs8K7QCtCb2JqVDRZejk5akE/view?usp=sharing"
+
+	},
+	{
+		"id": "btech",
+		"name": "https://drive.google.com/open?id=0B_Ljs8K7QCtCZWVVVE5GcEo5VXc"
+
+	},
+	{
+		"id": "MCA",
+		"name": "https://drive.google.com/open?id=0B_Ljs8K7QCtCc1U0aVd4MXRlY00"
+
+	},
+	{
+		"id": "Nine",
+		"name": "https://drive.google.com/file/d/0B_Ljs8K7QCtCWHFkeVNQazBIbE0"
+
+	},
+	{
+		"id": "B.ed",
+		"name": "https://drive.google.com/open?id=0B_Ljs8K7QCtCdU9UR29wcGNrU00"
+
+	},
+	{
+		"id": "Ba.LLB",
+		"name": "https://drive.google.com/open?id=0B_Ljs8K7QCtCUFVYNEt6aklGXzQ"
+
+	},
+	{
+		"id": "M.sc Biotech",
+		"name": "https://drive.google.com/open?id=0B_Ljs8K7QCtCMlJTX1VVaEJ4QTA"
+
+
+	},
+	{
+		"id": "MFC",
+		"name": "https://docs.google.com/uc?id=0B_Ljs8K7QCtCbzBoTUlqQjBzQUU&export=download"
+
+	},
+	{
+		"id": "MSW",
+		"name": "https://docs.google.com/uc?export=download&confirm=8z-g&id=0B_Ljs8K7QCtCWkx0MWZkM3N4c28"
+
+	},
+	{
+		"id": "11 commerce",
+		"name": "https://drive.google.com/open?id=0B_Ljs8K7QCtCOTduMmdaMkZZNzA"
+
+	},
+	{
+		"id": "MSC Agriculture",
+		"name": "https://drive.google.com/file/d/1t9-QVxK6rQ4NX1V12DAzsl-MNdUBfOld/view"
+
+	},
+	{
+		"id": "MSC Biotech",
+		"name": "https://drive.google.com/file/d/1sAyOiXx8-YgGCwP1yRP_bI3ubeTWHbHm/view"
+
+	},
+	{
+		"id": "B.lip",
+		"name": "https://drive.google.com/open?id=1Uf_hosKMg5x0Hiyw5d2WnhZRoxXnNwPV"
+
+	},
+	{
+		"id": "B.ed papers 2",
+		"name": "https://drive.google.com/open?id=1CxsO81LD20v4TGJj3bFnsBiXfimubtnT"
+
+	},
+	{
+		"id": "Bsc",
+		"name": "https://drive.google.com/open?id=0B_Ljs8K7QCtCbEgzRVpIWjlsMFE"
+
+	},
+	{
+		"id": "B.A",
+		"name": "https://drive.google.com/open?id=0B_Ljs8K7QCtCT1ZPZVNWZ2J3Z1k"
+	},
+	{
+		"id": "B.com",
+		"name": "https://drive.google.com/open?id=0B_Ljs8K7QCtCRHdIdmVYaXRhcDQ"
+	},
+	{
+		"id": "class6",
+		"name": "https://drive.google.com/open?id=0B_Ljs8K7QCtCeFh2M3gwZloxX0U"
+	},
+	{
+		"id": "Be civil",
+		"name": "https://drive.google.com/open?id=0B_Ljs8K7QCtCSWo0VTN2blhydWM"
+	},
+	{
+		"id": "B.tech papers 2",
+		"name": "https://drive.google.com/open?id=0B_Ljs8K7QCtCYzJWNi1pdXNHZmc"
+	},
+	{
+		"id": "XI science hindi",
+		"name": "https://drive.google.com/open?id=0B_Ljs8K7QCtCd2RnMVgzdy1fQ0k"
+	}
+
 ]
