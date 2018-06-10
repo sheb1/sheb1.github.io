@@ -1,6 +1,66 @@
 {
 	"Playlists": [{
 			"ListItems": [{
+					"Title": "2014",
+					"link": "https://careerendeavour.in/wp-content/uploads/2018/04/DU-MATHS-2014.pdf"
+				},
+				{
+					"Title": "2015",
+					"link": "https://careerendeavour.in/wp-content/uploads/2018/04/DU-M.Sc_.-ENTRANCE-CHEMISTRY-2015.pdf"
+				},
+				{
+					"Title": "2016",
+					"link": "https://careerendeavour.in/wp-content/uploads/2017/06/DU-CHEMISTRY-2016-PAPER.pdf"
+				},
+				{
+					"Title": "2017",
+					"link": "https://careerendeavour.in/wp-content/uploads/2018/03/DU-ENTRANCE-CHEMISTRY-2017.pdf"
+				}
+			],
+			"ListTitle": "DU Chemistry"
+		},
+		{
+			"ListItems": [{
+					"Title": "2014",
+					"link": "https://careerendeavour.in/wp-content/uploads/2018/04/DU-MATHS-2014.pdf"
+				},
+				{
+					"Title": "2015",
+					"link": "https://careerendeavour.in/wp-content/uploads/2018/04/DU-MATHS-2015.pdf"
+				},
+				{
+					"Title": "2016",
+					"link": "https://careerendeavour.in/wp-content/uploads/2018/04/DU-MATHS-2016.pdf"
+				},
+				{
+					"Title": "2017",
+					"link": "https://careerendeavour.in/wp-content/uploads/2018/04/DU-MATHS-2017.pdf"
+				}
+			],
+			"ListTitle": "DU MATHEMATICS"
+		},
+		{
+			"ListItems": [{
+					"Title": "2014",
+					"link": "https://careerendeavour.in/wp-content/uploads/2016/03/du-ph-2014.pdf"
+				},
+				{
+					"Title": "2015",
+					"link": "https://careerendeavour.in/wp-content/uploads/2016/03/du-ph-2015.pdf"
+				},
+				{
+					"Title": "2016",
+					"link": "https://careerendeavour.in/wp-content/uploads/2017/04/DU-PHYSICS-2016.pdf"
+				},
+				{
+					"Title": "2017",
+					"link": "https://careerendeavour.in/wp-content/uploads/2018/03/DU-M.SC_.-ENTRANCE-2017-PHYSICS.pdf"
+				}
+			],
+			"ListTitle": "DU PHYSICS"
+		},
+		{
+			"ListItems": [{
 					"Title": "Biological sciences",
 					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2013/bl.pdf"
 				},
@@ -28,7 +88,7 @@
 					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2013/gg.pdf"
 				}
 			],
-			"ListTitle": "2013"
+			"ListTitle": "IITJAM 2013"
 		},
 		{
 			"ListItems": [{
@@ -60,7 +120,7 @@
 					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2014/gg.pdf"
 				}
 			],
-			"ListTitle": "2014"
+			"ListTitle": "IITJAM 2014"
 		},
 		{
 			"ListItems": [{
@@ -92,7 +152,7 @@
 					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2015/gg.pdf"
 				}
 			],
-			"ListTitle": "2015"
+			"ListTitle": "IITJAM 2015"
 		},
 		{
 			"ListItems": [{
@@ -124,7 +184,7 @@
 					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2016/gg.pdf"
 				}
 			],
-			"ListTitle": "2016"
+			"ListTitle": "IITJAM 2016"
 		},
 		{
 			"ListItems": [{
@@ -156,7 +216,7 @@
 					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2017/gg.pdf"
 				}
 			],
-			"ListTitle": "2017"
+			"ListTitle": "IITJAM 2017"
 		},
 		{
 			"ListItems": [{
@@ -188,11 +248,10 @@
 					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2018/gg.pdf"
 				}
 			],
-			"ListTitle": "2018"
+			"ListTitle": "IITJAM 2018"
 		},
 		{
-			"ListItems": [
-				{
+			"ListItems": [{
 					"Title": "Physics",
 					"link": "http://bhuonline.in/pdfs/PET_2016/M.SC.PHYSICS.pdf"
 				},
@@ -213,7 +272,7 @@
 					"link": "http://bhuonline.in/pdfs/PET_2016/M.SC.GEOLOGY.pdf"
 				}
 			],
-			"ListTitle": "BHU"
+			"ListTitle": "BHU 2016"
 		}
 	]
 }
