@@ -1,0 +1,219 @@
+{
+	"Playlists": [{
+			"ListItems": [{
+					"Title": "Biological sciences",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2013/bl.pdf"
+				},
+				{
+					"Title": "Biotechnology",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2013/bt.pdf"
+				},
+				{
+					"Title": "Physics",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2013/ph.pdf"
+				},
+				{
+					"Title": "Chemistry",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2013/cy.pdf"
+				}, {
+					"Title": "Mathematics",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2013/ma.pdf"
+				},
+				{
+					"Title": "Mathematical Statistics",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2013/ms.pdf"
+				},
+				{
+					"Title": "Geology",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2013/gg.pdf"
+				}
+			],
+			"ListTitle": "2013"
+		},
+		{
+			"ListItems": [{
+					"Title": "Biological sciences",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2014/bl.pdf"
+				},
+				{
+					"Title": "Biotechnology",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2014/bt.pdf"
+				},
+				{
+					"Title": "Physics",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2014/ph.pdf"
+				},
+				{
+					"Title": "Chemistry",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2014/cy.pdf"
+				},
+				{
+					"Title": "Mathematics",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2014/ma.pdf"
+				},
+				{
+					"Title": "Mathematical Statistics",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2014/ms.pdf"
+				},
+				{
+					"Title": "Geology",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2014/gg.pdf"
+				}
+			],
+			"ListTitle": "2014"
+		},
+		{
+			"ListItems": [{
+					"Title": "Biological sciences",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2015/bl.pdf"
+				},
+				{
+					"Title": "Biotechnology",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2015/bt.pdf"
+				},
+				{
+					"Title": "Physics",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2015/ph.pdf"
+				},
+				{
+					"Title": "Chemistry",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2015/cy.pdf"
+				},
+				{
+					"Title": "Mathematics",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2015/ma.pdf"
+				},
+				{
+					"Title": "Mathematical Statistics",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2015/ms.pdf"
+				},
+				{
+					"Title": "Geology",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2015/gg.pdf"
+				}
+			],
+			"ListTitle": "2015"
+		},
+		{
+			"ListItems": [{
+					"Title": "Biological sciences",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2016/bl.pdf"
+				},
+				{
+					"Title": "Biotechnology",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2016/bt.pdf"
+				},
+				{
+					"Title": "Physics",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2016/ph.pdf"
+				},
+				{
+					"Title": "Chemistry",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2016/cy.pdf"
+				},
+				{
+					"Title": "Mathematics",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2016/ma.pdf"
+				},
+				{
+					"Title": "Mathematical Statistics",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2016/ms.pdf"
+				},
+				{
+					"Title": "Geology",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2016/gg.pdf"
+				}
+			],
+			"ListTitle": "2016"
+		},
+		{
+			"ListItems": [{
+					"Title": "Biological sciences",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2017/bl.pdf"
+				},
+				{
+					"Title": "Biotechnology",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2017/bt.pdf"
+				},
+				{
+					"Title": "Physics",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2017/ph.pdf"
+				},
+				{
+					"Title": "Chemistry",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2017/cy.pdf"
+				},
+				{
+					"Title": "Mathematics",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2017/ma.pdf"
+				},
+				{
+					"Title": "Mathematical Statistics",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2017/ms.pdf"
+				},
+				{
+					"Title": "Geology",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2017/gg.pdf"
+				}
+			],
+			"ListTitle": "2017"
+		},
+		{
+			"ListItems": [{
+					"Title": "Biological sciences",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2018/bl.pdf"
+				},
+				{
+					"Title": "Biotechnology",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2018/bt.pdf"
+				},
+				{
+					"Title": "Physics",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2018/ph.pdf"
+				},
+				{
+					"Title": "Chemistry",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2018/cy.pdf"
+				},
+				{
+					"Title": "Mathematics",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2018/ma.pdf"
+				},
+				{
+					"Title": "Mathematical Statistics",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2018/ms.pdf"
+				},
+				{
+					"Title": "Geology",
+					"link": "http://www.pgapp.iitb.ac.in/jam_qp/jamqp/2018/gg.pdf"
+				}
+			],
+			"ListTitle": "2018"
+		},
+		{
+			"ListItems": [
+				{
+					"Title": "Physics",
+					"link": "http://bhuonline.in/pdfs/PET_2016/M.SC.PHYSICS.pdf"
+				},
+				{
+					"Title": "Chemistry",
+					"link": "http://bhuonline.in/pdfs/PET_2016/M.SC.CHEMIS.pdf"
+				},
+				{
+					"Title": "Mathematics",
+					"link": "http://bhuonline.in/pdfs/PET_2016/M.SC.MATHEMATICS.pdf"
+				},
+				{
+					"Title": "Mathematical Statistics",
+					"link": "http://bhuonline.in/pdfs/PET_2016/M.SC.STATISTICS.pdf"
+				},
+				{
+					"Title": "Geology",
+					"link": "http://bhuonline.in/pdfs/PET_2016/M.SC.GEOLOGY.pdf"
+				}
+			],
+			"ListTitle": "BHU"
+		}
+	]
+}
