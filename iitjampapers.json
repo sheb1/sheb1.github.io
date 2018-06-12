@@ -18,6 +18,29 @@
 				}
 			],
 			"ListTitle": "DU Chemistry"
+		},{
+			"ListItems": [{
+					"Title": "Chemical Sciences",
+					"link": "http://csirhrdg.res.in/chemA_Dec2017.pdf"
+				},
+				{
+					"Title": "Earth Sciences",
+					"link": "http://csirhrdg.res.in/earthA_Dec2017.pdf"
+				},
+				{
+					"Title": "Life Sciences",
+					"link": "http://csirhrdg.res.in/lifeA_Dec2017.pdf"
+				},
+				{
+					"Title": "Mathematical Sciences",
+					"link": "http://csirhrdg.res.in/mathA_Dec2017.pdf"
+				},
+				{
+					"Title": "Physical Sciences",
+					"link": "http://csirhrdg.res.in/phyA_Dec2017.pdf"
+				}
+			],
+			"ListTitle": "Joint CSIR UGC NET Exam Question Papers Dec 2017"
 		},
 		{
 			"ListItems": [{
