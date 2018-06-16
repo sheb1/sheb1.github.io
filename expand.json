@@ -1,257 +1,239 @@
 {
-  "Playlists": [
-	  
-	{
+	"Playlists": [
 
-      "ListItems": [
+		{
+			"ListItems": [{
+				"Title": "Results",
+				"link": "http://www.amucontrollerexams.com/admissions_ga.html",
+				"thumb": "https://goo.gl/oXvXdX"
+			}],
 
-        {
-
-          "Title": "Results",
-
-          "link": "http://www.amucontrollerexams.com/admissions_ga.html",
-
-          "thumb": "https://goo.gl/oXvXdX"
-
-        }
-
-      ],
-
-      "ListTitle": "check result"
-
-    },
-
-
-    {
-      "ListItems": [
-	  {
-          "Title": "+2 and diploma 2016-17 & 2017-18",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/04/2-and-diploma-2016-17-2017-18.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },
-        {
-          "Title": "+2 and Diploma Engg 2005 to 2016-17",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/04/2-and-Diploma-Engg-2005-to-2016-17.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },
-        {
-          "Title": "+2 Art commerce and humanities 2005 to 2016",
-          "link": "https://drive.google.com/file/d/0B_Ljs8K7QCtCOTduMmdaMkZZNzA/view?usp=sharing",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "+2 and Diploma Engg hindi",
-          "link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCd2RnMVgzdy1fQ0k",
-          "thumb": "https://goo.gl/oXvXdX"
-        }
-      ],
-      "ListTitle": "+2 Diploma/Humanities/Science"
-    },
-    {
-      "ListItems": [
-        {
-          "Title": "Btech 2012 to 2016 AMU",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/Btech-2012-to-2016-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "B.tech 2007 to 2011 AMU",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/B.tech-2007-to-2011-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "BSC 2013-16",
-          "link": "https://drive.google.com/file/d/0B_Ljs8K7QCtCbEgzRVpIWjlsMFE/view?usp=sharing",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "BSC 2016 -17 AMU",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/BSC-2016-17-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "BA 2013-16",
-          "link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCT1ZPZVNWZ2J3Z1k",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "BA 2016-17",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/BA-2016-17-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "BA 2017-18",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/BA-hons-2017-18-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "B.COM 2013-16",
-          "link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCRHdIdmVYaXRhcDQ",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "B.COM 2016-17 AMU",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/B.COM-2016-17-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "BALLB 2013-14",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/BA-LLB-2013-14-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "BALLB 2012-13",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/BA-LLB-2012-13-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "B.ed 2009-14",
-          "link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCdU9UR29wcGNrU00",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "B.ed 2014-18",
-          "link": "https://drive.google.com/open?id=1CxsO81LD20v4TGJj3bFnsBiXfimubtnT",
-          "thumb": "https://goo.gl/oXvXdX"
-        },
-		 {
-          "Title": "B.lib 2012-18",
-          "link": "https://drive.google.com/open?id=1Uf_hosKMg5x0Hiyw5d2WnhZRoxXnNwPV",
-          "thumb": "https://goo.gl/oXvXdX"
-        }
-      ],
-      "ListTitle": "UG"
-    },
-    {
-      "ListItems": [
-        {
-          "Title": "MBA 2018-19",
-          "link": "https://drive.google.com/open?id=14fl9lRlkJAAVz3VAxE-vsSZAVvqw5W6R",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "MBA 2016-17",
-          "link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCZ0twZ3hibTVTdnc",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "MBA 2010-13",
-          "link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCb2JqVDRZejk5akE",
-          "thumb": "https://goo.gl/oXvXdX"
-        }, {
-          "Title": "MSC BIOTECH 2010-18",
-          "link": "https://drive.google.com/open?id=1sAyOiXx8-YgGCwP1yRP_bI3ubeTWHbHm",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "MCA 2010-16",
-          "link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCc1U0aVd4MXRlY00",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "MSC Botany",
-          "link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCMlJTX1VVaEJ4QTA",
-          "thumb": "https://goo.gl/oXvXdX"
-        }, {
-          "Title": "MSC Agriculture",
-          "link": "https://drive.google.com/open?id=1t9-QVxK6rQ4NX1V12DAzsl-MNdUBfOld",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "BE Civil papers",
-          "link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCSWo0VTN2blhydWM",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "MFC/MTA Papers ",
-          "link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCbzBoTUlqQjBzQUU",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "MSW 7 years papers",
-          "link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCWkx0MWZkM3N4c28",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "MSC Zoology 2010-2012",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MSC-Zoology-2010-to-2012-13-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "MSC Physics-2014-16-AMU",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MSC-Physics-2014-16-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "MSc or MA Geography",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MSc-or-MA-Geography-que-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "MSC-GEOLOGY-2017-18-AMU",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MSC-GEOLOGY-2017-18-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "MSC Chemistry",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MSc-chemistryprev-que-pprs-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "MSC Chemistry 2",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MSc-chemistry-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "MA-sociology-2016-17",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MA-sociology-2016-17-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "MA-sociology-2015-16",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MA-sociology-2015-16-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "MA-Arabic-all-previous-ques-pprs ",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MA-Arabic-all-previous-que-pprs-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "M.com 2016",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/M.com-2016-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "MA-Political-science-Human-Rights-Public-Administration-2016-2017",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MA-Political-science-Human-Rights-Public-Administration-2016-2017-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "MA-English-prev-que-pprs",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MA-English-prev-que-pprs-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "MA-history 2014-15",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MA-history-2014-15-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "MA History 2016-17",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MA-History-2016-17-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "MA Mass com 2014",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MA-Mass-com-2014-15-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "M.com 2015",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/M.-COM-2015-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "MA Mass com 2015",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MA-Mass-com-2015-16-AMu.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "MA Islamic-Studies Ques Pprs",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MA-Islamic-Studies-Que-Pprs-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "MA-Arabic-2017-18",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MA-Arabic-2017-18-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "MA Economics-2016-17",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MA-Economics-2016-17-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "PHD Fine arts",
-          "link": "http://www.thealigarian.com/wp-content/uploads/2018/03/PhD-fine-arts-AMU.pdf",
-          "thumb": "https://goo.gl/oXvXdX"
-        }
-      ],
-      "ListTitle": "PG"
-    },
-	{
-      "ListItems": [
-        {
-          "Title": "Class 9",
-          "link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCWHFkeVNQazBIbE0",
-          "thumb": "https://goo.gl/oXvXdX"
-        },{
-          "Title": "Class 6",
-          "link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCeFh2M3gwZloxX0U",
-          "thumb": "https://goo.gl/oXvXdX"
-        }
-      ],
-      "ListTitle": "School papers"
-    }
-  ]
+			"ListTitle": "check result"
+		},
+		{
+			"ListItems": [{
+					"Title": "+2 and diploma 2016-17 & 2017-18",
+					"link": "http://www.thealigarian.com/wp-content/uploads/2018/04/2-and-diploma-2016-17-2017-18.pdf",
+					"thumb": "https://goo.gl/oXvXdX"
+				},
+				{
+					"Title": "+2 and Diploma Engg 2005 to 2016-17",
+					"link": "http://www.thealigarian.com/wp-content/uploads/2018/04/2-and-Diploma-Engg-2005-to-2016-17.pdf",
+					"thumb": "https://goo.gl/oXvXdX"
+				},
+				{
+					"Title": "+2 Art commerce and humanities 2005 to 2016",
+					"link": "https://drive.google.com/file/d/0B_Ljs8K7QCtCOTduMmdaMkZZNzA/view?usp=sharing",
+					"thumb": "https://goo.gl/oXvXdX"
+				}, {
+					"Title": "+2 and Diploma Engg hindi",
+					"link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCd2RnMVgzdy1fQ0k",
+					"thumb": "https://goo.gl/oXvXdX"
+				}
+			],
+			"ListTitle": "+2 Diploma/Humanities/Science"
+		},
+		{
+			"ListItems": [{
+					"Title": "Btech 2012 to 2016 AMU",
+					"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/Btech-2012-to-2016-AMU.pdf",
+					"thumb": "https://goo.gl/oXvXdX"
+				}, {
+					"Title": "B.tech 2007 to 2011 AMU",
+					"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/B.tech-2007-to-2011-AMU.pdf",
+					"thumb": "https://goo.gl/oXvXdX"
+				}, {
+					"Title": "BSC 2013-16",
+					"link": "https://drive.google.com/file/d/0B_Ljs8K7QCtCbEgzRVpIWjlsMFE/view?usp=sharing",
+					"thumb": "https://goo.gl/oXvXdX"
+				}, {
+					"Title": "BSC 2016 -17 AMU",
+					"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/BSC-2016-17-AMU.pdf",
+					"thumb": "https://goo.gl/oXvXdX"
+				}, {
+					"Title": "BA 2013-16",
+					"link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCT1ZPZVNWZ2J3Z1k",
+					"thumb": "https://goo.gl/oXvXdX"
+				}, {
+					"Title": "BA 2016-17",
+					"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/BA-2016-17-AMU.pdf",
+					"thumb": "https://goo.gl/oXvXdX"
+				}, {
+					"Title": "BA 2017-18",
+					"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/BA-hons-2017-18-AMU.pdf",
+					"thumb": "https://goo.gl/oXvXdX"
+				}, {
+					"Title": "B.COM 2013-16",
+					"link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCRHdIdmVYaXRhcDQ",
+					"thumb": "https://goo.gl/oXvXdX"
+				}, {
+					"Title": "B.COM 2016-17 AMU",
+					"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/B.COM-2016-17-AMU.pdf",
+					"thumb": "https://goo.gl/oXvXdX"
+				}, {
+					"Title": "BALLB 2013-14",
+					"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/BA-LLB-2013-14-AMU.pdf",
+					"thumb": "https://goo.gl/oXvXdX"
+				}, {
+					"Title": "BALLB 2012-13",
+					"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/BA-LLB-2012-13-AMU.pdf",
+					"thumb": "https://goo.gl/oXvXdX"
+				}, {
+					"Title": "B.ed 2009-14",
+					"link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCdU9UR29wcGNrU00",
+					"thumb": "https://goo.gl/oXvXdX"
+				}, {
+					"Title": "B.ed 2014-18",
+					"link": "https://drive.google.com/open?id=1CxsO81LD20v4TGJj3bFnsBiXfimubtnT",
+					"thumb": "https://goo.gl/oXvXdX"
+				},
+				{
+					"Title": "B.lib 2012-18",
+					"link": "https://drive.google.com/open?id=1Uf_hosKMg5x0Hiyw5d2WnhZRoxXnNwPV",
+					"thumb": "https://goo.gl/oXvXdX"
+				}
+			],
+			"ListTitle": "UG"
+		},
+		{
+			"ListItems": [{
+				"Title": "MBA 2018-19",
+				"link": "https://drive.google.com/open?id=14fl9lRlkJAAVz3VAxE-vsSZAVvqw5W6R",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MBA 2016-17",
+				"link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCZ0twZ3hibTVTdnc",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MBA 2010-13",
+				"link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCb2JqVDRZejk5akE",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MSC BIOTECH 2010-18",
+				"link": "https://drive.google.com/open?id=1sAyOiXx8-YgGCwP1yRP_bI3ubeTWHbHm",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MCA 2010-16",
+				"link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCc1U0aVd4MXRlY00",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MSC Botany",
+				"link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCMlJTX1VVaEJ4QTA",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MSC Agriculture",
+				"link": "https://drive.google.com/open?id=1t9-QVxK6rQ4NX1V12DAzsl-MNdUBfOld",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "BE Civil papers",
+				"link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCSWo0VTN2blhydWM",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MFC/MTA Papers ",
+				"link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCbzBoTUlqQjBzQUU",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MSW 7 years papers",
+				"link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCWkx0MWZkM3N4c28",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MSC Zoology 2010-2012",
+				"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MSC-Zoology-2010-to-2012-13-AMU.pdf",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MSC Physics-2014-16-AMU",
+				"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MSC-Physics-2014-16-AMU.pdf",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MSc or MA Geography",
+				"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MSc-or-MA-Geography-que-AMU.pdf",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MSC-GEOLOGY-2017-18-AMU",
+				"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MSC-GEOLOGY-2017-18-AMU.pdf",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MSC Chemistry",
+				"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MSc-chemistryprev-que-pprs-AMU.pdf",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MSC Chemistry 2",
+				"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MSc-chemistry-AMU.pdf",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MA-sociology-2016-17",
+				"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MA-sociology-2016-17-AMU.pdf",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MA-sociology-2015-16",
+				"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MA-sociology-2015-16-AMU.pdf",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MA-Arabic-all-previous-ques-pprs ",
+				"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MA-Arabic-all-previous-que-pprs-AMU.pdf",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "M.com 2016",
+				"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/M.com-2016-AMU.pdf",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MA-Political-science-Human-Rights-Public-Administration-2016-2017",
+				"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MA-Political-science-Human-Rights-Public-Administration-2016-2017-AMU.pdf",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MA-English-prev-que-pprs",
+				"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MA-English-prev-que-pprs-AMU.pdf",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MA-history 2014-15",
+				"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MA-history-2014-15-AMU.pdf",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MA History 2016-17",
+				"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MA-History-2016-17-AMU.pdf",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MA Mass com 2014",
+				"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MA-Mass-com-2014-15-AMU.pdf",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "M.com 2015",
+				"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/M.-COM-2015-AMU.pdf",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MA Mass com 2015",
+				"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MA-Mass-com-2015-16-AMu.pdf",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MA Islamic-Studies Ques Pprs",
+				"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MA-Islamic-Studies-Que-Pprs-AMU.pdf",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MA-Arabic-2017-18",
+				"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MA-Arabic-2017-18-AMU.pdf",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "MA Economics-2016-17",
+				"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/MA-Economics-2016-17-AMU.pdf",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "PHD Fine arts",
+				"link": "http://www.thealigarian.com/wp-content/uploads/2018/03/PhD-fine-arts-AMU.pdf",
+				"thumb": "https://goo.gl/oXvXdX"
+			}],
+			"ListTitle": "PG"
+		},
+		{
+			"ListItems": [{
+				"Title": "Class 9",
+				"link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCWHFkeVNQazBIbE0",
+				"thumb": "https://goo.gl/oXvXdX"
+			}, {
+				"Title": "Class 6",
+				"link": "https://drive.google.com/open?id=0B_Ljs8K7QCtCeFh2M3gwZloxX0U",
+				"thumb": "https://goo.gl/oXvXdX"
+			}],
+			"ListTitle": "School papers"
+		}
+	]
 }
