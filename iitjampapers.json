@@ -1,10 +1,23 @@
 {
 	"Playlists": [{
 			"ListItems": [{
+					"Title": "Round 1: Opening and Closing Ranks",
+					"link": "http://jam.iitb.ac.in/round1.pdf"
+				},
+				{
+					"Title": "Round 2: Opening and Closing Ranks",
+					"link": "http://jam.iitb.ac.in/round2.pdf"
+				}
+
+			],
+			"ListTitle": "Cutoff JAM 2018"
+		},
+		{
+			"ListItems": [{
 					"Title": "books and other important material",
 					"link": "https://drive.google.com/drive/mobile/folders/0B6_yqPV-9ygLRmRSS0FXbXhyLUk"
 				}
-				
+
 			],
 			"ListTitle": "physics material for csir net gate"
 		},
@@ -27,7 +40,7 @@
 				}
 			],
 			"ListTitle": "DU Chemistry"
-		},{
+		}, {
 			"ListItems": [{
 					"Title": "Chemical Sciences",
 					"link": "http://csirhrdg.res.in/chemA_Dec2017.pdf"
