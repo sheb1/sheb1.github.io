@@ -8,15 +8,16 @@
 					"Title": "Concise Inorganic Chemistry (4th Edition) J.D. Lee",
 					"link": "http://dlx.b-ok.org/userbooks/1/35c5b825d2b2059203340917ed85cc4f/_as/%5BJ.D._Lee%5D_Concise_Inorganic_Chemistry_(4th_Editio(b-ok.org).pdf"
 				},
-				      {
+				{
 					"Title": "Jee main Rank boosters\nchemistry",
 					"link": "https://drive.google.com/open?id=0B0lHkocs8CCCSzc3NUJ5Vks0RU0"
 				},
 				{
 					"Title": "Resonance dpp sheets class 12 chemistry",
-					"link": "https://drive.google.com/open?id=0B0lHkocs8CCCd0NQcFp2LXd1SGM""
+					"link": "https://drive.google.com/open?id=0B0lHkocs8CCCd0NQcFp2LXd1SGM"
+
 				},
-				      {
+				{
 					"Title": "Resonance DPP sheets class 11",
 					"link": "https://drive.google.com/open?id=0B0lHkocs8CCCRDU3OUkxUFVVTFE"
 				},
@@ -24,7 +25,7 @@
 					"Title": "Bansal Modules",
 					"link": "https://drive.google.com/drive/folders/0B0lHkocs8CCCazQ3QUdTSUVrNEU"
 				},
-				      {
+				{
 					"Title": "Surface chemistry notes",
 					"link": "https://drive.google.com/file/d/0B5NKq82Cxt0QLWhkZk1WZERWZjQ/view?usp=drivesdk"
 				},
@@ -32,11 +33,10 @@
 					"Title": "Solid state notes ",
 					"link": ""
 				},
-				      {
+				{
 					"Title": "Chemical equilibrium notes of Vibrant academy",
 					"link": ""
 				}
-
 			],
 			"ListTitle": "Chemistry Material"
 		},
@@ -45,43 +45,42 @@
 					"Title": "jee advance rank booster",
 					"link": "https://drive.google.com/open?id=0B0lHkocs8CCCOUxmV1BCUFNEcGM"
 				},
-				      {
+				{
 					"Title": "Rotational dynamics notes",
 					"link": "https://drive.google.com/file/d/0B5NKq82Cxt0QVzd1NGpzZGkxR3c/view?usp=drivesdk"
 				},
-				      {
+				{
 					"Title": "Physics DPP class XI ",
 					"link": "https://drive.google.com/open?id=0B0lHkocs8CCCWnZ2dzkzbjFYLVE"
 				},
-				      {
+				{
 					"Title": "DPP class 12",
 					"link": "https://drive.google.com/open?id=0B0lHkocs8CCCOWhQM05CenhPRUE"
 				},
-				      {
-					"Title": ""Master Resource book physics ",
+				{
+					"Title": "Master Resource book physics ",
 					"link": "https://drive.google.com/open?id=0B0lHkocs8CCCa01xZTRkZWhrQTg"
 				},
-				      {
+				{
 					"Title": "formula booklet",
 					"link": "https://drive.google.com/drive/mobile/folders/0B0lHkocs8CCCTnl0c2lheWdXM3M"
 				},
-				      {
+				{
 					"Title": "jeemain rank booster",
 					"link": "https://drive.google.com/open?id=0B0lHkocs8CCCcFNzQlFzS2lIdFE"
 				},
-				      {
-					"Title": ""Ie irodov \n\n",
+				{
+					"Title": "Ie irodov",
 					"link": "https://drive.google.com/file/d/0B_0oxH_pZb4mTk5xdGJUQnNOZ0U/view"
 				},
-        {
-        "Title": "irodov Solution part 1",
-        "link": "https://drive.google.com/file/d/0B_0oxH_pZb4mZXhCTnJtRmxYUWc/view"
-        },
-        {
-        "Title": "irodov Soliton part 2",
-        "link": "https://drive.google.com/file/d/0B_0oxH_pZb4mR1Y5Tnlfb3lhWVE/view"
-        }
-
+				{
+					"Title": "irodov Solution part 1",
+					"link": "https://drive.google.com/file/d/0B_0oxH_pZb4mZXhCTnJtRmxYUWc/view"
+				},
+				{
+					"Title": "irodov Soliton part 2",
+					"link": "https://drive.google.com/file/d/0B_0oxH_pZb4mR1Y5Tnlfb3lhWVE/view"
+				}
 			],
 			"ListTitle": "Physics Material"
 		}
