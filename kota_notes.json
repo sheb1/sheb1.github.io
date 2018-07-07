@@ -41,7 +41,12 @@
 			"ListTitle": "Chemistry Material"
 		},
 		{
-			"ListItems": [{
+			"ListItems": [
+				{
+					"Title": "Ncert at fingertips,password=ihateu",
+					"link": "https://drive.google.com/file/d/1Bhy_a-FF70zI0S1zphzurWQyudxiIl1q/view?usp=drivesdk"
+				}, 
+				{
 					"Title": "jee advance rank booster",
 					"link": "https://drive.google.com/open?id=0B0lHkocs8CCCOUxmV1BCUFNEcGM"
 				},
