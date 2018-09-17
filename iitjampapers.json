@@ -21,6 +21,40 @@
 			],
 			"ListTitle": "physics material for csir net gate"
 		},
+		 {
+			"ListItems": [{
+					"Title": "Mathematical Methods IIT-JAM 2005-2018",
+					"link": "http://www.physicsbyfiziks.com/freedownload/previous-solution/iitjam/1.%20Mathematical%20Methods.pdf"
+				},
+				      {
+					"Title": "Mechanics & General Properties of Matter IIT-JAM 2005-2018",
+					"link": "http://www.physicsbyfiziks.com/freedownload/previous-solution/iitjam/2.%20Mechanics%20and%20General%20Properties%20of%20Matter.pdf"
+				},
+				      {
+					"Title": "Oscillations, Waves and Optics IIT-JAM 2005-2018",
+					"link": "http://www.physicsbyfiziks.com/freedownload/previous-solution/iitjam/3.%20Oscillations,%20Waves%20and%20Optics.pdf"
+				},
+				      {
+					"Title": "Electricity and Magnetism IIT-JAM 2005-2018",
+					"link": "http://www.physicsbyfiziks.com/freedownload/previous-solution/iitjam/4.%20Electricity%20and%20Magnetism.pdf"
+				},
+				      {
+					"Title": "Kinetic Theory, Thermodynamics IIT-JAM 2005-2018",
+					"link": "http://www.physicsbyfiziks.com/freedownload/previous-solution/iitjam/5.%20Kinetic%20Theory.pdf"
+				},
+				  {
+					"Title": "Modern Physics IIT-JAM 2005-2018",
+					"link": "http://www.physicsbyfiziks.com/freedownload/previous-solution/iitjam/6.%20Modern%20Physics.pdf"
+				},
+				      {
+					"Title": "Solid State Physics, Devices and Electronics IIT-JAM 2005-2018",
+					"link": "http://www.physicsbyfiziks.com/freedownload/previous-solution/iitjam/7.%20Solid%20State%20Physics,%20Devices%20and%20Electronics.pdf"
+				}
+				 
+
+			],
+			"ListTitle": "Topicwise solutions for IITJAM 2018 Physics"
+		},
 		{
 			"ListItems": [{
 					"Title": "2014",
