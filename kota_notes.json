@@ -1,6 +1,83 @@
 {
 	"Playlists": [{
 			"ListItems": [{
+					"Title": "UNIT & DIMENSIONS",
+					"link": "https://drive.google.com/drive/folders/1I82WDsj1oDv7nhENDvXaOJ4AKYgysuc7"
+				},{
+					"Title": "CIRCULAR MOTION",
+					"link": "https://drive.google.com/drive/folders/1Z-H7E1HS3GK42XoajlLzARvWgfPQPlQf"
+				},{
+					"Title": "SHM",
+					"link": "https://drive.google.com/drive/folders/1uO7XYikT8j-WwP158XMjJvw6btVYsTKI"
+				},{
+					"Title": "WAVE 1",
+				         "link": "https://drive.google.com/drive/folders/1Zm_pPGU68KrS-ADlKj47QMXvmn3K8q1p"
+				},{
+					"Title": "WAVE 2",
+					 "link": "https://drive.google.com/drive/folders/1xmQgH2eMdLO9C-Kpyrl9f4Ymr2AMbpvu"
+				
+				},{
+					"Title": "CURRENT",
+					 "link": "https://drive.google.com/drive/folders/1uDanVcjAW0LhIjcE_roWFF6NgqpAZb1F"
+				},{
+					"Title": "AV 1",
+					"link": "https://drive.google.com/drive/folders/1In7tPrTEy_03I7jAzccqQk4kfJt9cfkO"
+				},{
+					"Title": "AV 2",
+					"link": "https://drive.google.com/drive/folders/1OScnsHXZj89mcIE-ZpbAhu0P4jrxf9yj"
+				},{
+					"Title": "AV 3",
+					"link": "https://drive.google.com/drive/folders/1SoWcGLhDsvS5hHiVDfsAeSe7mouWPOxf"
+				}
+
+			],
+			"ListTitle": "Physics videos"
+		},
+		{
+			"ListItems": [
+				{
+					"Title": "NJ",
+					"link": "https://drive.google.com/drive/folders/1_Slwp9I9__Y65vx5C6gsGSHwWQz3GlBX"
+				},{
+					"Title": "PO",
+					"link": "https://drive.google.com/drive/folders/1QBp9YEUWjpnsLNXqwoParmoJIq5wegI9"
+				},{
+					"Title": "PO 2",
+					"link": "https://drive.google.com/drive/folders/1lDn7z715kIvaZJoWYizDPt3jjPfu5DQa"
+				},{
+					"Title": "PS ",
+					"link": "https://drive.google.com/drive/folders/1jmF-vvJFzr72b516bZav1A06ov4JL8w0"
+				},{
+					"Title": "CHEMICAL BONDING",
+					"link": "https://drive.google.com/drive/u/0/folders/0B2vImlk4Db2YbGF1cFdnNFUtaEE"
+				},{
+					"Title": "MOLE",
+					"link": "https://drive.google.com/drive/u/0/folders/0B2dtovwlOYTkQXFYTnhSNUVNUEE"
+				},{
+					"Title": "GASEOUS",
+					"link": "https://drive.google.com/drive/u/0/folders/0B2TV3mESpU3dNnc1OUQyamFKRVE"
+				},{
+					"Title": "SURFACE CHEMISTRY",
+					"link": "https://drive.google.com/drive/u/0/folders/0B94Z4pA1dBzPWE52WnZyTGF1MWs"
+				},{
+					"Title": "ELECTROCHEMISTRY",
+					"link": "https://drive.google.com/drive/u/0/folders/1btDfSFTaq7TuAiuAtVCTAQB9Sl94CGz3"
+				}
+			],
+			"ListTitle": "Chemistry videos"
+		},
+		{
+			"ListItems": [
+				{
+					"Title": "MC",
+					"link": "https://drive.google.com/drive/folders/1XG-8qIp13p4i0CJCzvOiRbMKC8YrXjem?sort=13&direction=a"
+				}
+
+			],
+			"ListTitle": "MATHS VIDEOS"
+		},
+		{
+			"ListItems": [{
 					"Title": "Ncert at fingertips,password=ihateu",
 					"link": "https://drive.google.com/file/d/1Bhy_a-FF70zI0S1zphzurWQyudxiIl1q/view?usp=drivesdk"
 				}, 
