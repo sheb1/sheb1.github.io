@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+<head>
+
+	<title>CHEMISTRY Quiz</title>
+
+	<meta name="description" content="A simple interactive quiz for web pages using HTML, CSS, and jQuery">
+
+	<meta name="author" content="Alan Simpson">
+
+	<!-- I've intentionally put all the code in one file and kept it simple for the benefit
+
+	of students who are just learning this stuff. -->
+
+	<style>
+
+		body {
+
+			font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+			font-size: 14pt;
+
+		}
+
+		#wrapper {
+
+			width: 80%;
+
+			padding: 1%;
+
+			margin: 1em auto;
+
+			border: solid 1px silver;
+
+		}
+
+		/* Text of the questions */
+
+		.question p:first-child {
+
+			font-weight: bold;
+
+		}
+
+		/* Each possible answer */
+
+		.ans {
+
+			margin-left: 10px;
+
+		}
+
+		/* Correct answer */
+
+		.right {
+
+			display: block;
+
+			border: solid 1px green;
+
+			background: url("greencheck.png") no-repeat 10px;
+
+			padding: 10px;
+
+			padding-left: 60px;
+
+		}
+
+		/* Incorrect answer */
+
+		.wrong {
+
+			display: block;
+
+			border: solid 1px red;
+
+			background: url("redx.png") no-repeat 10px;
+
+			padding: 10px;
+
+			padding-left: 60px;
+
+		}
+
+		/* Answer feedback */
+
+		.ans span {
+
+			display: none;
+
+			margin-left: 20px;
+
+			padding-top: 0.5em;
+
+		}
+
+		/* Take hidden feedback out of hiding when applied */
+
+		.show {
+
+			display: block;
+
+		}
+
+	</style>
+
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+	<script>
+
+		$(document).ready(function () {
+
+			$("p.ans").click(function () {
+
+				//Get the id of the div
+
+				var qnum = "#" + $(this).parent().attr("id");
+
+				//Clear previous freeback:
+
+				$(qnum + " p.ans").removeClass("right wrong");
+
+				$(qnum + " p span").css("display", "none");
+
+				//Apply right or wrong class to p and span.
+
+				var applyclass = "wrong"
+
+				var spancolor = "red"
+
+				if ($(this).hasClass("correct")) {
+
+					applyclass = "right";
+
+					spancolor = "green"
+
+				}
+
+				$(this).addClass(applyclass);
+
+				$(this).children(":first").css("display", "block").css("color", spancolor);
+
+			})
+
+		});
+
+	</script>
+
+</head>
+
+
+<body>
+
+		<h1>CHEMISTRY Quiz</h1>
+
+	<p>the quiz.</p>
+
+	<div id="wrapper">
+
+		<!-- Each question should be in its own div with a unique ID like q1, q2, and so forth -->
+
+		<!-- Each optional answer has a class of "ans" and the correct answer (only) has an additional class of "correct" -->
+
+		<!-- Use p tags the question and for each answer -->
+
+		<div class="question" id="q1">
+
+			<p>1. H3PO4?</p>
+
+			<p class="ans correct">a) phosphoric acid<span>Correct, phosphoric acid</span></p>
+
+			<p class="ans">b) potassium phosphate<span>That's not a primary color for ink or light.</span></p>
+
+			<p class="ans">c) phosphate<span>That's a primary color for inks, but not for light</span></p>
+
+			<p class="ans">d) none<span>That's not a primary color for ink or light.</span></p>
+
+		</div>
+
+		<div class="question" id="q2">
+
+			<p>2. Which of the following is a JavaScript library?</p>
+
+			<p class="ans ">a) CSS<span>CSS is a language, not a JavaScript library.</span></p>
+
+			<p class="ans">b) HTML<span>HTML is a markup language, not a JavaScript library</span></p>
+
+			<p class="ans correct">c) jQuery<span>Correct-a-mundo, jQuery is a wildly popular JavaScript library.</span></p>
+
+			<p class="ans">d) Python<span>Python is a programming language, or large snake, but not a JavaScript library.</span></p>
+
+		</div>
+
+	</div>
+
+	<!-- Images -->
+
+	
+
+
+
+</body>
+
+
+</html>
+
