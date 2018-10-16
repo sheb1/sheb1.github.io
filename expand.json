@@ -1,15 +1,5 @@
 {
-	"Playlists": [
-
-		{
-			"ListItems": [{
-				"Title": "Results",
-				"link": "https://sheb1.github.io/quiz.html",
-				"thumb": "https://goo.gl/oXvXdX"
-			}],
-
-			"ListTitle": "check result"
-		},
+	"Playlists": [		
 		{
 			"ListItems": [{
 					"Title": "+2 and diploma 2016-17 & 2017-18",
