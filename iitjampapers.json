@@ -1,17 +1,5 @@
 {
-	"Playlists": [{
-			"ListItems": [{
-					"Title": "Round 1: Opening and Closing Ranks",
-					"link": "http://jam.iitb.ac.in/round1.pdf"
-				},
-				{
-					"Title": "Round 2: Opening and Closing Ranks",
-					"link": "http://jam.iitb.ac.in/round2.pdf"
-				}
-
-			],
-			"ListTitle": "Cutoff JAM 2018"
-		},
+	"Playlists": [
 		{
 			"ListItems": [{
 					"Title": "books and other important material",
